@@ -13,7 +13,7 @@ export default function BitcoinPage() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Master Bitcoin fundamentals, best practices, and investment strategies. 
-              Learn from an experienced educator who's been in the space for over 5 years.
+              Learn from an experienced educator who&apos;s been in the space for over 5 years.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/coaching" className="btn-bitcoin text-lg px-8 py-4">
@@ -42,7 +42,7 @@ export default function BitcoinPage() {
               Bitcoin Fundamentals
             </h2>
             <p className="text-xl text-gray-600">
-              Start here if you're new to Bitcoin
+              Start here if you&apos;re new to Bitcoin
             </p>
           </div>
 
@@ -79,7 +79,7 @@ export default function BitcoinPage() {
               <TrendingUp className="h-12 w-12 text-bitcoin-500 mb-4" />
               <h3 className="text-xl font-bold text-gray-900 mb-3">Why Bitcoin Matters</h3>
               <p className="text-gray-600 mb-4">
-                Understanding Bitcoin's value proposition and its role in the future of money and finance.
+                Understanding Bitcoin&apos;s value proposition and its role in the future of money and finance.
               </p>
               <ul className="text-sm text-gray-600 space-y-1">
                 <li>• Store of value properties</li>
@@ -311,7 +311,7 @@ export default function BitcoinPage() {
               <div className="card">
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Value Averaging</h3>
                 <p className="text-gray-600 mb-4">
-                  Adjust your investment amount based on Bitcoin's performance. Buy more when prices are low, less when high.
+                  Adjust your investment amount based on Bitcoin&apos;s performance. Buy more when prices are low, less when high.
                 </p>
                 <ul className="text-gray-600 space-y-2">
                   <li className="flex items-center">
@@ -371,7 +371,7 @@ export default function BitcoinPage() {
               Common Bitcoin Mistakes to Avoid
             </h2>
             <p className="text-xl text-gray-600">
-              Learn from others' mistakes to protect your investment
+              Learn from others&apos; mistakes to protect your investment
             </p>
           </div>
 

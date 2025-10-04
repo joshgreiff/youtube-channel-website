@@ -304,7 +304,7 @@ export default function ResourcesPage() {
               <div className="bg-gray-200 rounded-lg h-48 mb-4"></div>
               <h3 className="text-lg font-bold text-gray-900 mb-2">The Bitcoin Standard</h3>
               <p className="text-gray-600 text-sm mb-4">
-                By Saifedean Ammous. Essential reading for understanding Bitcoin's role in the future of money.
+                By Saifedean Ammous. Essential reading for understanding Bitcoin&apos;s role in the future of money.
               </p>
               <a
                 href="https://amazon.com/bitcoin-standard"

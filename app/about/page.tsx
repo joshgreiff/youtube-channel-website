@@ -10,7 +10,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                Hi, I'm Your Name
+                Hi, I&apos;m Your Name
               </h1>
               <p className="text-xl text-gray-600 mb-8">
                 Financial educator, Bitcoin advocate, and your guide to building wealth through smart work, 
@@ -236,7 +236,7 @@ export default function AboutPage() {
             Ready to Start Your Financial Journey?
           </h2>
           <p className="text-xl text-primary-100 mb-8 max-w-2xl mx-auto">
-            Let's work together to transform your financial future. 
+            Let&apos;s work together to transform your financial future. 
             Book a coaching session and take the first step toward financial freedom.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -13,8 +13,8 @@ export default function CoachingPage() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Get personalized 1-on-1 guidance to accelerate your financial journey. 
-              Whether you're just starting or looking to optimize your existing strategy, 
-              I'll help you create a clear path to financial freedom.
+              Whether you&apos;re just starting or looking to optimize your existing strategy, 
+              I&apos;ll help you create a clear path to financial freedom.
             </p>
             <div className="flex items-center justify-center space-x-4 text-sm text-gray-500">
               <div className="flex items-center">
@@ -183,7 +183,7 @@ export default function CoachingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              What You'll Learn in Our Sessions
+              What You&apos;ll Learn in Our Sessions
             </h2>
             <p className="text-xl text-gray-600">
               Comprehensive coverage of work, saving, and Bitcoin strategies
@@ -250,7 +250,7 @@ export default function CoachingPage() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "The coaching sessions completely transformed my approach to money. I went from living paycheck to paycheck to having a solid emergency fund and Bitcoin portfolio in just 3 months."
+                &ldquo;The coaching sessions completely transformed my approach to money. I went from living paycheck to paycheck to having a solid emergency fund and Bitcoin portfolio in just 3 months.&rdquo;
               </p>
               <div className="font-semibold text-gray-900">Sarah M.</div>
               <div className="text-sm text-gray-500">Marketing Manager</div>
@@ -263,7 +263,7 @@ export default function CoachingPage() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "I was skeptical about Bitcoin, but the education I received was invaluable. Now I understand the technology and have a clear strategy for long-term wealth building."
+                &ldquo;I was skeptical about Bitcoin, but the education I received was invaluable. Now I understand the technology and have a clear strategy for long-term wealth building.&rdquo;
               </p>
               <div className="font-semibold text-gray-900">Mike R.</div>
               <div className="text-sm text-gray-500">Software Engineer</div>
@@ -276,7 +276,7 @@ export default function CoachingPage() {
                 ))}
               </div>
               <p className="text-gray-600 mb-4">
-                "The personalized approach made all the difference. Instead of generic advice, I got a plan tailored specifically to my situation and goals. Highly recommended!"
+                &ldquo;The personalized approach made all the difference. Instead of generic advice, I got a plan tailored specifically to my situation and goals. Highly recommended!&rdquo;
               </p>
               <div className="font-semibold text-gray-900">Jennifer L.</div>
               <div className="text-sm text-gray-500">Teacher</div>
